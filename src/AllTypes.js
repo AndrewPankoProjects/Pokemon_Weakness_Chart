@@ -1,0 +1,21 @@
+
+export const types = [
+    {id: 1, name: 'Fire', color: 'red', image: './PokemonTypesIcons/Fire.png'},
+    {id: 2, name: 'Water', color: 'blue', image: './PokemonTypesIcons/Water.png'},
+    {id: 3, name: 'Grass', color: 'green', image: './PokemonTypesIcons/Grass.png'},
+    {id: 4, name: 'Normal', color: 'white', image: './PokemonTypesIcons/Normal.png'},
+    {id: 5, name: 'Electric', color: 'yellow', image: './PokemonTypesIcons/Electric.png'},
+    {id: 6, name: 'Ice', color: 'cyan', image: './PokemonTypesIcons/Ice.png'},
+    {id: 7, name: 'Fighting', color: 'Coral', image: './PokemonTypesIcons/Fighting.png'},
+    {id: 8, name: 'Poison', color: 'purple', image: './PokemonTypesIcons/Poison.png'},
+    {id: 9, name: 'Ground', color: 'brown', image: './PokemonTypesIcons/Ground.png'},
+    {id: 10, name: 'Flying', color: 'sky blue', image: './PokemonTypesIcons/Flying.png'},
+    {id: 11, name: 'Psychic', color: 'pink', image: './PokemonTypesIcons/Psychic.png'},
+    {id: 12, name: 'Bug', color: 'Chartreuse', image: './PokemonTypesIcons/Bug.png'},
+    {id: 13, name: 'Rock', color: 'Bisque', image: './PokemonTypesIcons/Rock.png'},
+    {id: 14, name: 'Ghost', color: 'purple', image: './PokemonTypesIcons/Ghost.png'},
+    {id: 15, name: 'Dragon', color: 'purple', image: './PokemonTypesIcons/Dragon.png'},
+    {id: 16, name: 'Dark', color: 'WhiteSmoke', image: './PokemonTypesIcons/Dark.png'},
+    {id: 17, name: 'Steel', color: 'gray', image: './PokemonTypesIcons/Steel.png'},
+    {id: 18, name: 'Fairy', color: 'Magenta', image: './PokemonTypesIcons/Fairy.png'},
+  ]
