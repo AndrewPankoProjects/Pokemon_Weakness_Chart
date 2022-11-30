@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pokemon_Weakness_Chart/static/css/main.cc1c5a55.css",
+    "main.js": "/Pokemon_Weakness_Chart/static/js/main.87ccbbf5.js",
+    "index.html": "/Pokemon_Weakness_Chart/index.html",
+    "main.cc1c5a55.css.map": "/Pokemon_Weakness_Chart/static/css/main.cc1c5a55.css.map",
+    "main.87ccbbf5.js.map": "/Pokemon_Weakness_Chart/static/js/main.87ccbbf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1c5a55.css",
+    "static/js/main.87ccbbf5.js"
+  ]
+}
